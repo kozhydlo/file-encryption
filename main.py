@@ -38,4 +38,4 @@ def walking_by_dirs(dir, password):
             walking_by_dirs(path, password)
 
 password = input("Введіть пароль для шифрування: ")
-walking_by_dirs("C:/Users/Mark/Desktop", password)
+walking_by_dirs("ДОРОГА ДО ФАЙЛІВ", password)
